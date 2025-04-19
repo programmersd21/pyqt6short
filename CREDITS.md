@@ -1,0 +1,1 @@
+https://pythonguis.com for their pyqt6 tutorial
